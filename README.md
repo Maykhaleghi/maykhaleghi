@@ -8,7 +8,7 @@ And this is how she chose the most exciting and yet agonizing major;
 ##
 
 ### Hi 👋  
-I'm Mahdie, aka *May*, a third-year computer science student.  
+I'm Mahdie, aka *May*, a fourth-year computer science student.  
 
 - 💛 I've recently fallen in love with data science and AI.  
 - 📞 and here's how you can reach me:  
