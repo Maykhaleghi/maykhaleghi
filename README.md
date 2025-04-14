@@ -2,7 +2,7 @@
 there was a girl who enjoyed exploring and undrestanding, but could not decide what exactly.  
 She wanted to know everything.  
 However, as no human being had lived long enough or could know it all,she had to make a choice.
-And this is how she chose the most exciting and yet agonizing major.  
+And this is how she chose the most exciting and yet agonizing major;
 💫 **Computer Science** 💫
 
 ##
