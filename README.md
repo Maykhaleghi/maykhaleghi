@@ -10,8 +10,7 @@ And this is how she chose the most exciting and yet agonizing major.
 ### Hi 👋  
 I'm Mahdie, aka *May*, a third-year computer science student.  
 
-- 💛 I've recently fallen in love with web development.  
-- 📚 I'm currently learning more about data structures and CSS and JS.  
+- 💛 I've recently fallen in love with data science and AI.  
 - 📞 and here's how you can reach me:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Miakhaleghi@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdie-mia-khaleghi-b6b0b6234) 
